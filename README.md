@@ -41,16 +41,3 @@ I build games using **Godot Engine** and develop desktop applications with **C#*
 - 📦 Utility Tools
 - 🧪 Experimental Projects
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
