@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Asterov
 
 🎮 I am a software developer focused on **game development** and **desktop applications**.  
-I build games using **Godot Engine** and develop desktop applications with **C#**, **Java**, and **Ruby**.
+I develop games using **Godot Engine** and build desktop applications with **C#**, **Java**, and **Ruby**.
 
 ---
 
@@ -9,8 +9,8 @@ I build games using **Godot Engine** and develop desktop applications with **C#*
 
 - 🎮 Game development with **Godot Engine** (2D / 3D)
 - 🖥️ Desktop application development
-- 🧠 Object-Oriented Programming (OOP)
-- 🛠️ Focused on performance, clean code, and user experience
+- 🧠 Strong foundation in **Object-Oriented Programming (OOP)**
+- ⚙️ Focused on application logic, systems, and performance
 
 ---
 
@@ -25,12 +25,12 @@ I build games using **Godot Engine** and develop desktop applications with **C#*
 
 ---
 
-## 🎮 Areas of Interest
+## 🎮 Areas of Focus
 
 - 🕹️ Gameplay Mechanics & Game Systems
-- 🎨 UI / UX for Games & Desktop Apps
 - 🧩 Object-Oriented Design
 - ⚙️ Optimization & Debugging
+- 🧠 Problem Solving & Logic Design
 
 ---
 
