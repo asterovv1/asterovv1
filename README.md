@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Asterov
 
-<!--
-**asterovv1/asterovv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 I am a software developer focused on **game development** and **desktop applications**.  
+I build games using **Godot Engine** and develop desktop applications with **C#**, **Java**, and **Ruby**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎮 Game development with **Godot Engine** (2D / 3D)
+- 🖥️ Desktop application development
+- 🧠 Object-Oriented Programming (OOP)
+- 🛠️ Focused on performance, clean code, and user experience
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" />
+</p>
+
+---
+
+## 🎮 Areas of Interest
+
+- 🕹️ Gameplay Mechanics & Game Systems
+- 🎨 UI / UX for Games & Desktop Apps
+- 🧩 Object-Oriented Design
+- ⚙️ Optimization & Debugging
+
+---
+
+## 🖥️ What I Build
+
+- 🎮 2D / 3D Games
+- 🧰 Desktop Applications
+- 📦 Utility Tools
+- 🧪 Experimental Projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
